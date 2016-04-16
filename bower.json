@@ -41,6 +41,6 @@
     "medium-editor": "^5.15.0",
     "handlebars": "~4.0.0",
     "blueimp-file-upload": "~9.12.1",
-    "jquery-sortable": "git@github.com:timakin/jquery-sortable.git#0f1a40c7eb689fc986b8031acd6dea1bb3e4aac5"
+    "jquery-sortable": "git@github.com:timakin/jquery-sortable.git#f5b98dcb20cfad155abde03184cc84cbb1b5e3ac"
   }
 }
